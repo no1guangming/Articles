@@ -1,14 +1,13 @@
-<div>下面摘自维基百科知名程序员列表：</div>
+下面摘自维基百科知名程序员列表：(这个列表应该说还是缺少了很多人)
 
-<div>很遗憾，基本没有中国人在程序员界很知名。</div>
+很遗憾，基本没有中国人在世界范围的程序员界很知名。
 
-<div>提出这份列表给大家看，是为了让从事这个职业的人了解计算机发展史，这可能会带给你完全不同的体验。</div>
+提出这份列表给大家看，是为了让从事这个职业的人了解计算机发展史，这可能会带给你完全不同的体验。
 
-<div>也许会对你的职业产生巨大的影响。</div>
+也许会对你的职业产生巨大的影响。
 
-<div>下面这些人所做的事每件都曾经影响了无数人。而且很多仍旧是现在计算机世界的基石！</div>
+下面这些人所做的事每件都曾经影响了无数人。而且很多仍旧是现在计算机世界的基石！
 
-<div>以史为鉴！</div>
 
 *   [Michael Abrash](https://en.wikipedia.org/wiki/Michael_Abrash "Michael Abrash")  
     <span style="font-style: italic;">Zen of Graphics Programming书籍作者</span>
@@ -525,24 +524,25 @@
 *   [Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg "Mark Zuckerberg") – creator of [Facebook](https://en.wikipedia.org/wiki/Facebook "Facebook")  
     Facebook创始人 1984
 
-<div>
 
 * * *
 
 <div>稍微总结一下，从上面的列表我们可以看出：</div>
 
-</div>
-
 <div>
 
-1.  大多数人生于1980年以前，1980-1990已经很少，1990以后没有。
+1.  大多数人生于1980年以前，1980-1990已经很少，1990以后没有。也即是大多数人现在30岁以上！
 2.  基本没有女性。
 3.  大多数人集中在美国。
-4.  基本大多数语言的设计都是1970年以前的人完成的。
+4.  基本大多数编程语言以及协议的设计都是1970年以前的人完成的。
 
 </div>
 
-总结这些，我是想说，不要忘记任何伟大项目后面的人！
+以史为鉴！
+
+虽然Programmer每天面对的是Machine，但是不要忘记Machine后面的人！
+
+实际上，你是在与前人沟通！
 
 <div>2018.3.26 </div>
 
