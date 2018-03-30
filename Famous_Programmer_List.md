@@ -23,7 +23,9 @@
     微软联合创始人 1953
 *   [Eric Allman](https://en.wikipedia.org/wiki/Eric_Allman "Eric Allman") – [sendmail](https://en.wikipedia.org/wiki/Sendmail "Sendmail"), [syslog](https://en.wikipedia.org/wiki/Syslog "Syslog")  
     Sendmail作者 1955
-*   [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen "Marc Andreessen") – co-creator of [Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser) "Mosaic (web browser)"), co-founder of [Netscape](https://en.wikipedia.org/wiki/Netscape_Communications_Corporation "Netscape Communications Corporation")  
+*   [Joe Armstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)) - [Erlang]( https://en.wikipedia.org/wiki/Erlang_(programming_language) "Erlang")   
+    Erlang作者 1950
+*   [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen "Marc Andreessen") – co-creator of [Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser) "Mosaic (web browser)"), co-founder of [Netscape](https://en.wikipedia.org/wiki/Netscape_Communications_Corporation "Netscape Communications Corporation")  
     网景公司联合创始人 1971
 *   [Jeremy Ashkenas](https://en.wikipedia.org/wiki/Jeremy_Ashkenas "Jeremy Ashkenas") – creator of the [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript "CoffeeScript") programming language and [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js "Backbone.js")  
     Coffee script 作者
